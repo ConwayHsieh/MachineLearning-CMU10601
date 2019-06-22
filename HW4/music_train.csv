@@ -1,0 +1,7 @@
+﻿year,solo,vocal,length,original,tempo,folk,classical,rhythm,jazz,rock,hit
+before1950,yes,yes,morethan3min,yes,fast,yes,yes,yes,yes,yes,yes
+before1950,no,no,lessthan3min,no,slow,no,no,no,no,yes,yes
+after1950,yes,yes,morethan3min,yes,fast,yes,yes,yes,yes,yes,yes
+after1950,no,no,lessthan3min,no,slow,no,no,no,no,no,no
+after1950,yes,yes,morethan3min,yes,fast,yes,yes,yes,yes,yes,no
+before1950,no,no,lessthan3min,no,slow,no,no,no,no,no,yes

@@ -1,0 +1,17 @@
+Didyoureceiveanyhelpwhatsoeverfromanyoneinsolvingthisassignment? (Yes/No). Ifyouanswered ‘yes’, give full details (e.g. “Jane Doe explained to me what is asked in Question 3.4”).
+
+No.
+
+
+Did you give any help whatsoever to anyone in solving this assignment? (Yes / No). If you answered ‘yes’, give full details (e.g. “I pointed Joe Smith to section 2.3 since he didn’t know how to proceed with Question 2”).
+
+Explained to Shiyuan Zheng the fundamentals behind decision trees, suggested ways 
+to organize all of the labels (list of lists), suggested using functions for calculating entropy, conditional entropy, MI, suggested a way to break at a node if 
+MI < 0.1, discussed how to calculate error(test).
+Also gave general programming tips.
+
+
+Did you find or come across code that implements any part of this assignment? (Yes / No)
+(See below policy on “found code”). If you answered ‘yes’, give full details (book & page, URL &location within the page, etc.).
+
+None other than general Python resources.

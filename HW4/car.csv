@@ -1,0 +1,4 @@
+﻿buying,maint,doors,length,person,boot,safety,class
+expensive,high,MoreThanTwo,morethan3min,Two,large,low,yes
+cheap,low,Two,lessthan3min,MoreThanTwo,small,high,no
+cheap,low,MoreThanTwo,lessthan3min,MoreThanTwo,small,high,yes

@@ -1,0 +1,3 @@
+A decision tree should work for the politician dataset, as it identifies the issues that will categorize the politicians the best.
+
+A decision tree for the education dataset may work work as well, since grades usually are an AND function: Do well on all assignments and tests and your grade will be an A. It may point to factors that indicate the most influence on the grade, ie a final that is weighted highly in the final grade.

@@ -1,0 +1,3 @@
+It seems that decision tree is more accurate on:
+politician testing data
+politician training data
