@@ -1,0 +1,8 @@
+1.     Did you receive any help whatsoever from anyone in solving this assignment? No.
+
+
+2.  Did you give any help whatsoever to anyone in solving this assignment?           Yes
+
+Gave Shiyuan Zheng pointers on functions that read command line arguments, open and read lines, and text parsing, ie sys.argv, .read(), .readline(), .count(), .split, etc. in Python
+
+3.  Did you find or come across code that implements any part of this assignment?  No, not ML related, just Python language resources for implement built-in functions
