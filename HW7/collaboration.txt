@@ -1,0 +1,13 @@
+Didyoureceiveanyhelpwhatsoeverfromanyoneinsolvingthisassignment? (Yes/No). Ifyouanswered ‘yes’, give full details (e.g. “Jane Doe explained to me what is asked in Question 3.4”).
+
+No.
+
+Did you give any help whatsoever to anyone in solving this assignment? (Yes / No). If you answered ‘yes’, give full details (e.g. “I pointed Joe Smith to section 2.3 since he didn’t know how to proceed with Question 2”).
+
+Yes, helped guide Shiyuan Zheng through all of the PyTorch tutorials, which I used, including all of the parts we had to change to fit our dataset to the code in the tutorial. Also used the same initial net: resnet18(). Since we both heavily based our code off of the tutorials, our code may not look very different.
+
+Did you find or come across code that implements any part of this assignment? (Yes / No)
+(See below policy on “found code”). If you answered ‘yes’, give full details (book & page, URL &location within the page, etc.).
+
+Yes
+https://medium.com/@josh_2774/deep-learning-with-pytorch-9574e74d17ad
