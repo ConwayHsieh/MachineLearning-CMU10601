@@ -1,0 +1,12 @@
+Didyoureceiveanyhelpwhatsoeverfromanyoneinsolvingthisassignment? (Yes/No). Ifyouanswered ‘yes’, give full details (e.g. “Jane Doe explained to me what is asked in Question 3.4”).
+
+Yes, helped explain to Shiyuan Zheng how to use matrix multiplication to do weight calculations in a more streamlined fashion, forward propagation through the network via matrix multiplication.
+
+Did you give any help whatsoever to anyone in solving this assignment? (Yes / No). If you answered ‘yes’, give full details (e.g. “I pointed Joe Smith to section 2.3 since he didn’t know how to proceed with Question 2”).
+
+Yes, Shiyuan Zheng explained the equation for how to update weights.
+
+Did you find or come across code that implements any part of this assignment? (Yes / No)
+(See below policy on “found code”). If you answered ‘yes’, give full details (book & page, URL &location within the page, etc.).
+
+No.
