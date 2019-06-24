@@ -1,0 +1,10 @@
+Voting results were:
+32 0
+16 16
+16 16
+0 32
+16 16
+
+It seems that the results were either 50/50 split between the hypotheses, or skewed one way or the other. With so many 50/50 splits, it does not seem it would work well for making decisions, but it does seem to do have a total consensus if there is one.
+
+From this, we can tell that List-then-eliminate easily discriminates against extremes with high confidence, but has a hard time making a concrete decision once it enters less well-defined territories.
