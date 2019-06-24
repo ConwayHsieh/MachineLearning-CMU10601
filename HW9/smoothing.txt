@@ -1,0 +1,7 @@
+q = 0, acc = 0.6111
+q = 0.1, acc = 0.8889
+q = 0.5, acc = 0.8056
+q = 1, acc = 0.8056
+q = 5, acc = 0.6667
+
+it seems that q = 0.1 was the best classifier, q = 0.5 did not affaect, and q = 0 and q = 5 both decreased classification accuracy.

@@ -1,0 +1,3 @@
+Words found were uncommon words.
+No overlapping words.
+Words were completely different from topwords, seemed to be not used as much as words found in top words. Words that were found in one document but not the other.
